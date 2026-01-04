@@ -123,5 +123,8 @@ db.books.updateOne()
 
 db.books.deleteOne()
 
+Project verified with CRUD operations and error handling.
+
+
 
 
